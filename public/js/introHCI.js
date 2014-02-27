@@ -11,3 +11,5 @@ $(document).ready(function() {
 function initializePage() {
 	// your code here
 }
+
+ga('send','trackEvent','like','click'};
